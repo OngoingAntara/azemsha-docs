@@ -31,7 +31,7 @@ function Page2() {
           </tr>
           <tr>
             <td colSpan="2" className='table_body_td'>Заключение</td>
-            <td colSpan="18" className='table_body_td padding-0'>Предмет аренды по договору аренды <textarea  placeholder="XXX" className='text-font border-none padding-0 textarea-height middle textarea'/> (признается/не признается) в качестве права пользования активом и обязательство по аренде не признается.</td>
+            <td colSpan="18" className='table_body_td padding-0'>Предмет аренды по договору аренды <textarea  placeholder="XXX" className='text-font border-none padding-0 textarea-height middle textarea'/> (признается/не признается) в качестве права пользования активом и обязательство по аренде <textarea  placeholder="не признается." className='text-font border-none padding-0 textarea-height large textarea'/></td>
           </tr>
           <tr>
             <td colSpan="2" className='table_body_td'>Обоснование мнения:</td>
@@ -314,7 +314,7 @@ function Page2() {
           <tr className='grey bold'>
             <td colSpan="14" className='table_body_td'>ВЫВОД:</td>
             <td colSpan="6" className='table_body_td text-align-center'>
-              Договор не является арендой
+              Договор <textarea  placeholder="не является." className='text-font border-none padding-0 textarea-height large textarea'/> арендой
             </td>
           </tr>
         </tbody>

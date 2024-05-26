@@ -6,6 +6,7 @@ import Page2 from './Page2';
 import Page3 from './Page3';
 import Page4 from './Page4';
 import Page5 from './Page5';
+import Page6 from './Page6';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Route path="/percent" element={<Page3/>}></Route>
       <Route path="/nma" element={<Page4/>}></Route>
       <Route path="/finance" element={<Page5/>}></Route>
+      <Route path="/dopfinance" element={<Page6/>}></Route>
     </Routes>
   );
 }
