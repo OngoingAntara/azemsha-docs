@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/azemsha-docs/static/css/main.136dae91.css",
-    "main.js": "/azemsha-docs/static/js/main.7bfab6d9.js",
+    "main.js": "/azemsha-docs/static/js/main.88c67666.js",
     "static/js/453.ed3810f9.chunk.js": "/azemsha-docs/static/js/453.ed3810f9.chunk.js",
     "static/media/logo.svg": "/azemsha-docs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/azemsha-docs/index.html",
     "main.136dae91.css.map": "/azemsha-docs/static/css/main.136dae91.css.map",
-    "main.7bfab6d9.js.map": "/azemsha-docs/static/js/main.7bfab6d9.js.map",
+    "main.88c67666.js.map": "/azemsha-docs/static/js/main.88c67666.js.map",
     "453.ed3810f9.chunk.js.map": "/azemsha-docs/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136dae91.css",
-    "static/js/main.7bfab6d9.js"
+    "static/js/main.88c67666.js"
   ]
 }
