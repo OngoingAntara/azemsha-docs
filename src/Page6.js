@@ -37,7 +37,7 @@ function Page6() {
         <tr>
           <td className='table_body_td vertical-align'>Заключение</td>
           <td className='table_body_td text-align-justify'>Признать средства субсидии, выделенной из федерального и <textarea  placeholder="регионального" className='text-font border-none padding-0 textarea-height large textarea'/> бюджета в рамках Соглашения <textarea  placeholder="YYY" className='text-font border-none padding-0 textarea-height middle textarea'/> <textarea  placeholder="№  от г." className='text-font bold border-none padding-0 textarea-height middle textarea'/>в 
-          сумме <textarea  placeholder="XXX" className='text-font border-none padding-0 textarea-height middle textarea'/> рублей на предоставление <textarea  placeholder="..." className='text-font border-none padding-0 textarea-width vertical textarea text-align-justify'/> невозвратными и отразить на счетах бухгалтерского учета 60320 Расчеты с акционерами, участниками, пайщиками.  
+          сумме <textarea  placeholder="XXX" className='text-font border-none padding-0 textarea-height middle textarea'/> рублей на предоставление <textarea  placeholder="..." className='text-font border-none padding-0 textarea-width vertical textarea text-align-justify'/> возвратными и отразить на счетах бухгалтерского учета 60320 Расчеты с акционерами, участниками, пайщиками.  
           </td>
         </tr>
         <tr>
